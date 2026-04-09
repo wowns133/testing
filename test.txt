@@ -1,0 +1,8 @@
+total 53
+drwxr-xr-x 1 wowns 197609     0 Apr  9 13:10 ./
+drwxr-xr-x 1 wowns 197609     0 Apr  9 13:08 ../
+drwxr-xr-x 1 wowns 197609     0 Apr  8 20:40 .git/
+-rw-r--r-- 1 wowns 197609  7788 Apr  8 20:38 .gitignore
+-rw-r--r-- 1 wowns 197609 35823 Apr  8 20:38 LICENSE
+-rw-r--r-- 1 wowns 197609     9 Apr  8 20:38 README.md
+-rw-r--r-- 1 wowns 197609     0 Apr  9 13:10 test.txt
